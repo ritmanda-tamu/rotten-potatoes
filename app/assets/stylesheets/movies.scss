@@ -1,0 +1,19 @@
+.sorted.asc {
+  background-color: #dff0d8; /* light green background for ascending sort */
+}
+
+.sorted.desc {
+  background-color: #f2dede; /* light red background for descending sort */
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
